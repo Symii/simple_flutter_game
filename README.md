@@ -1,16 +1,6 @@
 # simple_game
 
-A new Flutter project.
+Flutter simple game.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![471822008_511571238114873_3264579796884444634_n](https://github.com/user-attachments/assets/69c2ceb2-e04e-4840-acf0-c2b1a71e907f)
